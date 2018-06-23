@@ -155,6 +155,7 @@ Signed,
 1.  Martin Šťovíček [@stovmascript](https://github.com/stovmascript)
 1.  Matt Glaser [@oppodeldoc](https://github.com/oppodeldoc)
 1.  Matthew Searles [mattxo](https://github.com/mattxo)
+1.  Mattheu Farmer [@mattheufarmer](https://github.com/mattheufarmer)
 1.  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
 1.  Michael Bishop [@miklb](https://github.com/miklb)
 1.  Mijndert Stuij [@mijndert](https://github.com/mijndert)
